@@ -20,4 +20,10 @@ public class UserCotroller {
 
         return "登陆成功！userName = " + userName + ", userpass = " + userpass ;
     }
+    public void test(){
+        System.out.println("ok");
+    }
+            {
+
+    }
 }
